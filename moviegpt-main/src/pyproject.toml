@@ -2,7 +2,7 @@
 name = "moviegpt"
 version = "0.1.0"
 description = ""
-authors = ["Rafael Pierre <rafael.pierre@gmail.com>"]
+authors = ["Raphael Ugboko <ralphugboko@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
